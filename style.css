@@ -76,7 +76,7 @@ header>ul>li{
 
 @keyframes reproducirAudio {
     to{
-        transform: scale(1.05);
+        transform: scale(1.1);
     }
 }
 
